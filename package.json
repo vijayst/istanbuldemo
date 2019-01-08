@@ -9,13 +9,15 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "html-webpack-plugin": "^3.2.0",
+    "nyc": "^13.1.0",
     "webpack": "^4.28.3",
     "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.1.14"
   },
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack"
+    "build": "webpack",
+    "report": "nyc report"
   },
   "dependencies": {
     "babel-loader": "7.1.4",
