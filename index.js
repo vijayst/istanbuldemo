@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom";
-import Coverage from './Coverage';
+import Coverage from 'istanbul-coverage-display';
 
 function Index() {
     const [count, setCount] = useState(0);

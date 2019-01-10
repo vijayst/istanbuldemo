@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "babel-loader": "7.1.4",
     "babel-core": "^6.26.3",
+    "babel-loader": "7.1.4",
     "babel-plugin-istanbul": "^5.1.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
@@ -21,6 +21,7 @@
     "report": "nyc report"
   },
   "dependencies": {
+    "istanbul-coverage-display": "^1.0.0",
     "react": "^16.7.0-alpha.2",
     "react-dom": "^16.7.0-alpha.2"
   }
