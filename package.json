@@ -21,7 +21,7 @@
     "report": "nyc report"
   },
   "dependencies": {
-    "istanbul-coverage-display": "^1.0.0",
+    "istanbul-coverage-display": "^1.0.2",
     "react": "^16.7.0-alpha.2",
     "react-dom": "^16.7.0-alpha.2"
   }
