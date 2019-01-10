@@ -3063,10 +3063,10 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-istanbul-coverage-display@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/istanbul-coverage-display/-/istanbul-coverage-display-1.0.2.tgz#212d51a9df75a57df99261bd153fe2ec1433c779"
-  integrity sha512-AC/tWLaHro9Dge5n7tSJfDfenprd7jvY9mZyB7Qv3dJopMwfDXl1HpgG7XaIEyN5baVZTZp11lE7HyKR4yEaDA==
+istanbul-coverage-display@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/istanbul-coverage-display/-/istanbul-coverage-display-1.0.3.tgz#f8f56c4fda97f6929583cf5bc43ce814773dc473"
+  integrity sha512-BRg1oNxbYQAQhc7uB5JizfTKx34Tc8xjBZ4aLVyaPm0ZAIUJGfSWlVUqn7o1Ich1bbxwNX4BpL5W/+M5AD1jLg==
 
 istanbul-lib-coverage@^2.0.1:
   version "2.0.1"
